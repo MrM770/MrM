@@ -1,18 +1,18 @@
 {
     "project": {
-        "name": "mybgg",
-        "title": ""
+        "name": "MrM",
+        "title": "بوردگیم های من"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "Mrm770",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "E0VOGN3GZJ",
+        "api_key_search_only": "f648335aaea218aead1da061a9db9a6c",
+        "index_name": "MrMbgg",
         "hits_per_page": 24
     }
 }
