@@ -1,7 +1,7 @@
 {
     "project": {
         "name": "MrM",
-        "title": "بوردگیم‌های‌من"
+        "title": "بوردگیم های من"
     },
     "boardgamegeek": {
         "user_name": "Mrm770",
@@ -13,6 +13,6 @@
         "app_id": "E0VOGN3GZJ",
         "api_key_search_only": "f648335aaea218aead1da061a9db9a6c",
         "index_name": "MrMbgg",
-        "hits_per_page": 48
+        "hits_per_page": 50
     }
 }
