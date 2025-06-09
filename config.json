@@ -1,18 +1,19 @@
 {
-    "project": {
-        "name": "MrM",
-        "title": "بوردگیم‌های‌من"
-    },
-    "boardgamegeek": {
-        "user_name": "Mrm770",
-        "extra_params": {
-            "own": 1
-        }
-    },
-    "algolia": {
-        "app_id": "E0VOGN3GZJ",
-        "api_key_search_only": "f648335aaea218aead1da061a9db9a6c",
-        "index_name": "MrMbgg",
-        "hits_per_page": 60
-    }
+    "project": {
+        "name": "MrM",
+        "title": "بوردگیم‌های‌من"
+    },
+    "boardgamegeek": {
+        "user_name": "Mrm770",
+        "collections": [
+            { "label": "own", "extra_params": { "own": 1 } },
+            { "label": "wanttoplay", "extra_params": { "wanttoplay": 1 } }
+        ]
+    },
+    "algolia": {
+        "app_id": "E0VOGN3GZJ",
+        "api_key_search_only": "f648335aaea218aead1da061a9db9a6c",
+        "index_name": "MrMbgg",
+        "hits_per_page": 48
+    }
 }
